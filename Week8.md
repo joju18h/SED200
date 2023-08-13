@@ -42,11 +42,11 @@
 - The Asio C++ Library is used for network and asynchronous I/O tasks, making it easier to build efficient network applications.
 - Question: Can you think of another application for water simulation?
 Water simulation can also be used for urban planning and flood management, helping design drainage systems and assess flood risks in cities.
--Question: Would the Software Defined Network approach be useful for the control and routing of water?
+- Question: Would the Software Defined Network approach be useful for the control and routing of water?
 Yes, the Software Defined Network (SDN) approach could be adapted to control and optimize water flow in systems by centralizing control and dynamically managing water routing based on real-time data just like network packets. However, there are challenges due to the physical nature of water systems that would need careful consideration.
--Question: What are some advantages of open-source software development?
+- Question: What are some advantages of open-source software development?
 Open-source software development offers collaboration, transparency, cost savings, customization, community support, rapid evolution, vendor independence, innovation, longevity, and ethical alignment.
--Question: What are some advantages of proprietary software?
+- Question: What are some advantages of proprietary software?
 Advantages of proprietary software include vendor support, stability, integration, advanced features, security (debated), ease of use, regulatory compliance, focused roadmaps, intellectual property protection, and monetization opportunities.
 - The frequency of introducing novel products varies based on market dynamics and the company's strategy.
 
