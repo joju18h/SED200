@@ -1,7 +1,11 @@
-- Contents
-    # Sustaining Software Engineering and Product Support
-    ## Sustaining Software Ecosystems
+# WEEK 8 - Sustaining Software Engineering and Product Support
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Sustaining Software Ecosystems](#sustaining-software-ecosystems)
+- [Examples of Evolving Software Ecosystems](#examples-of-evolving-software-ecosystems)
+- [Key Concepts and Questions](#key-concepts-and-questions)
+- [Conclusion](#conclusion)
 
 
 # Sustaining Software Engineering and Product Support
@@ -19,14 +23,19 @@
 - Successful software products evolve to remain useful and attractive over time.
 
 ## Examples of Evolving Software Ecosystems
-1. **UIQ Technology:** Developed a user interface framework and apps for mobile devices. Failed due to challenges in maintaining the ecosystem.
+1. **UIQ Technology:** Developed a user interface framework and apps for mobile devices.(Based on symbian OS) Failed due to challenges in maintaining the ecosystem.
 2. **Microsoft Dynamics:** Developed ERP systems adaptable to various markets. Customization is done by partners.
 3. **SIM - Water and Environment Simulation:** Offers consultancy and software services for water and environmental issues. Evolved to support control systems.
 4. **UIB - Software Distribution for Local Area Networks:** Developed open-source software for software distribution in networks.
 
+
 ## Key Concepts and Questions
+- **Sustaining engineering** is the process of improving products after release to address defects and evolving customer needs.
+- Ecosystem (in general use) a complex network or interconnected system.
 - **Ecosystem** in the software context refers to the complex network of interactions, contributors, and components surrounding a software product.
 - Examples of successful software products evolving over decades include operating systems like Windows, Unix, or Linux.
+- UIQ Technology failed due to fragmentation in the Symbian ecosystem, competition from newer platforms like iOS and Android, high licensing costs, performance issues, and an inability to adapt to changing market trends.
+- considering the strong presence of well-established platforms like iOS and Android, the likelihood of SymbianOS making a significant resurgence remains quite low.
 - The frequency of introducing novel products varies based on market dynamics and the company's strategy.
 
 ## Conclusion
